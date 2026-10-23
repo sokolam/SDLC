@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Результаты сборки
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.idb
+*.pch
+*.recipe
+
+# Временные файлы
+*.tmp
+*.temp
+*~
